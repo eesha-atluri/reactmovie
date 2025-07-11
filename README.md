@@ -13,6 +13,7 @@ Responsive design for desktop and mobile
 To run this app locally:
 
 
+```bash
 git clone https://github.com/your-username/movie-favorites-app.git
 cd movie-favorites-app
 npm install
